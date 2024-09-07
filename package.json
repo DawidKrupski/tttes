@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/NazwaRepozytorium/",
+    "build": "vite build --base=/tttes/",
     "preview": "vite preview"
   },
   "devDependencies": {
